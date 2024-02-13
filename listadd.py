@@ -4,3 +4,4 @@ for item in list:
     sum+=item
 
 print("The sum of the list is: ", sum)
+print ("Version 3")
